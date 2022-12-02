@@ -1,0 +1,24 @@
+﻿
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->02-12-2022 15:29:50
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->02-12-2022 15:29:51
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->02-12-2022 15:29:51
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->02-12-2022 15:29:51
+----------------------------------
+
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->02-12-2022 15:29:55
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->02-12-2022 15:29:55
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->02-12-2022 15:29:55
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->02-12-2022 15:29:55
+----------------------------------
+
+Before Action execution->FilterDemo.Controllers.EmployeeController->FilterDemo.Controllers.EmployeeController.EmployeeList (FilterDemo)->02-12-2022 15:29:56
+After Action execution->FilterDemo.Controllers.EmployeeController->FilterDemo.Controllers.EmployeeController.EmployeeList (FilterDemo)->02-12-2022 15:29:57
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.EmployeeController->FilterDemo.Controllers.EmployeeController.EmployeeList (FilterDemo)->02-12-2022 15:29:57
+After Result execution->FilterDemo.Controllers.EmployeeController->FilterDemo.Controllers.EmployeeController.EmployeeList (FilterDemo)->02-12-2022 15:29:57
+----------------------------------
